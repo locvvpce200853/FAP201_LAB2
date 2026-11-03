@@ -1,0 +1,41 @@
+//
+//Written by GowinSynthesis
+//Tool Version "V1.9.11.03 Education"
+//Tue Nov  3 14:39:32 2026
+
+//Source file index table:
+//file0 "\D:/Lab_FAP201/Lab02/src/Lab02.vhd"
+//file1 "\D:/Lab_FAP201/Lab02/src/Lab02tb.vhd"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+buz+H7+YyFoCUpzalcZzxh9yHBgQsOwhL2gUHp2oILNOj8UXHk0gdvT/a2DsZ9fkI/ZqPMZ94RtC
+p9JkeLExkoAt9TS5Q0BPs5sz0nLb7A6cruCR3iH/jb8sdSjcmzITc5LhLwv7zOMMfjDwr0vr7yW8
+G9cyTdx7epIBjOcWylPK0+pg8K1h+BgoYqVU7yInFRPk/1XMKSpIyYwvbqeom5yUwI4deN85zlvL
+0EX7N+8xAp8PJxmuwQ/AkvK7y5j6zQdx0FAd9L/dqWOo4gcEbLMTiS79jLGTaQhsquXY+R9XRiIz
+SK+gMpQ/oEeJw6Bg2ajg1Nb4MVPHlyywuvhu6Q==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=576)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+rPbRyTsGrFllMmyOphcIFuneUhFcU9lXmHvJ9r+zU9qtsBy/27zwbKZKPUdfqhVJux1pqQOmDcHg
+rHIuQ9Uv8eFbwoSSCNXvobt031T0Dy7GiUee8/ftBAcXfXWDtoOl5mjJNiYUf1x9/40I985rOBE5
+A+FopSsopb0ShQW/syEWx8+h3ruww4j4srTGAa0Hby9TfLpMDEZ08gI35HPZm4HMF6NU1syNpQNP
+rrY0TMBY9LuU9Ktci3Jg/0OH1wQiyKeKC03HV84R5d8eE83DMIp/l9j41PA4ADciISi9WzoSWJpB
+BNp5nyRiYRwsNS9F54QAVWHBPoUx7eNAiz2MY8S0oYDshPbayldUjXYpJi1S24yxnP9HGyzQRRqI
+hItvmWuykjSDn+EO9Lj7knJNUPhWXOfdFma6S+I/yj9EyCyJN2qRSbG+C8TvDIJUgQGIHSlIhaxr
+G5lfs35kzJnBxKlAQY6euPC+k07By4OXapMepLPf6/3hSV8VwXx4NVMcOyKWozDF4Egl/K0JLHNm
+sSTvkpIRJgVQMFvywhSR6ad2flLeQcME9Euewbi7x+/vWLmgoZJjHRdKFrmRAyr0kfRYu2UACoFK
+xCxhalP99h7789EHciqjCp9/TydnjOqV/+ym9s5qNv3BrpVPJ2CCzLqC37yJFLHPYmX5/lx1498N
+96D/KttRlyuAHqt8gGIwCvxrBzsgRLrseCOJs6du5hkGgdHmxZZKU/OuCTsHVyF65bbjRCfiy2MQ
+JcorhnFl
+`pragma protect end_protected
